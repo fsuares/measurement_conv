@@ -79,7 +79,7 @@ def yard_test():
       sleep(0.5)
   print()
 
-## 
+##
 # Meters test function
 def meter_test():
   print("\nTESTING METER TO FEAT")
